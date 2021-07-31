@@ -22,5 +22,3 @@ vetor com 10⁹ elementos
   * tempo concorrente (4 threads) = 11,772082s
     * aceleração = 1,136711
  
- O tempo de inicialização foi muito grande, fazendo que o aumento de threads não melhorasse tanto o desempenho.
- Com 10⁹ elementos, por exemplo, a inicialização demorou 10 segundos.
